@@ -12,9 +12,6 @@ header{
     display: flex;
     justify-content: space-around;
 }
-#main_image{
-    box-sizing: auto;
-}
 #main section {
     text-align: center;
 }
@@ -38,7 +35,7 @@ header{
     margin-top: 100px;
 }
 #hero-msg h4{
-    color:
+    color:#a4c2ee
 }
 #button-box{
     text-align: center;
@@ -118,13 +115,13 @@ header{
 }
 #footer{
     background-color: #194c97;
-    padding: 25px 50px
+    padding: 25px 50px;
     margin-top: 200px;
     display: flex;
-    align-items:center
+    align-items:center;
 }
 .card-img{
-    border: 10px solid #194C97
+    border: 10px solid #194C97;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #A4C2EE;
 }
